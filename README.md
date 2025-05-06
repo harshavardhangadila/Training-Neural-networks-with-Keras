@@ -39,4 +39,4 @@
 | `11_Custom_Training_Loop.ipynb`                                                  | Uses `tf.GradientTape` to build a custom training loop with metrics, progress bars, and LR control. |
 
 
-[Training-Neural-networks-with-Keras](https://drive.google.com/file/d/1_cfXKdqKuWJqFrdhj0f4pkN-PKBkU-An/view?usp=drive_link)
+Youtube: [Training-Neural-networks-with-Keras](https://www.youtube.com/playlist?list=PLCGwaUpxPWO03Tzh6CcDFjh1gNbkBJtnP)
